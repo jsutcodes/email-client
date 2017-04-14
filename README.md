@@ -20,3 +20,8 @@ https://developer.mozilla.org/en-US/docs/Mozilla/Developer_guide/Build_Instructi
 TTD make sure to write tests and try to write development with Testing in mind 
 what are the goals
 
+#Things to keep in mind 
+-TDD (be utiliizing )
+-Goals, what are they, what Am i trying to build?
+- Always be building for the future. what patterns should i use? what can I do to follow best practices 
+- Keep things immutable but extendable 
