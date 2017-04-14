@@ -25,3 +25,4 @@ what are the goals
 -Goals, what are they, what Am i trying to build?
 - Always be building for the future. what patterns should i use? what can I do to follow best practices 
 - Keep things immutable but extendable 
+- Blog: Notes on what i struggled with? how would i change, what are my worries, how to i plan to handle certain problems? 
