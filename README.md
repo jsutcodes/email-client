@@ -17,5 +17,6 @@ https://www.java-tips.org/java-se-tips-100019/15-javax-swing/1392-how-to-create-
 https://developer.mozilla.org/en-US/docs/Mozilla/Developer_guide/Build_Instructions/Simple_Thunderbird_build
 
 
-
+TTD make sure to write tests and try to write development with Testing in mind 
+what are the goals
 
