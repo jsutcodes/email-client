@@ -11,3 +11,11 @@ Questions:
 C++ or javascript html? 
 localhost hosting? 
 
+
+https://www.java-tips.org/java-se-tips-100019/15-javax-swing/1392-how-to-create-an-e-mail-client-in-java.html
+
+https://developer.mozilla.org/en-US/docs/Mozilla/Developer_guide/Build_Instructions/Simple_Thunderbird_build
+
+
+
+
